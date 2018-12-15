@@ -3,7 +3,7 @@
 - PFN製のパラメータチューニングフレームワーク
 - 2018年12月ベータ版リリース、そのうちダッシュボードも追加される予定
 - 汎用性が高く、また複数の処理をまとめてチューニングできる
--（例、特徴量エンジニアリング＋LightGBMのパラメータチューニングなど）
+- 例:特徴量エンジニアリング＋LightGBMのパラメータチューニングなど
 - [実行例](http://nbviewer.jupyter.org/github/dialectic4th/optuna/blob/master/optuna.ipynb)
 
 ## 参考
