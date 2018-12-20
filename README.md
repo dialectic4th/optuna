@@ -4,7 +4,7 @@
 - 2018年12月ベータ版リリース、そのうちダッシュボードも追加される予定
 - 汎用性が高く、また複数の処理をまとめてチューニングできる
 - 例:特徴量エンジニアリング＋LightGBMのパラメータチューニングなど
-- [実行例](http://nbviewer.jupyter.org/github/dialectic4th/optuna/blob/master/optuna.ipynb)
+- [実行例](http://nbviewer.jupyter.org/github/dialectic4th/optuna/blob/master/optuna_example.ipynb)
 
 ## 参考
 - [optuna概要](https://www.preferred-networks.jp/ja/news/pr20181203-2)
